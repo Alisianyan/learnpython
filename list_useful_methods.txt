@@ -1,0 +1,31 @@
+len(list) ## the lenth of the list
+list[:2] ## slice 0-1 elements
+list[::-1] ##forward sequence
+list.index(elem)## forward index
+
+if elem (in | not in) list:
+	do smth
+
+##edeting lists:
+list.append(new elem)
+list += new elem
+list.insert(position, new elem)
+list.remove(elem_value)
+del list[position] ##return deleted element
+list.sort() ##dont return anth, but sort the list
+list.reverse() ##dont return anth, but sort the list
+
+sorted(list) ##function return sorted list but dont editing it
+reversed(list) ##function return reversed list but dont editing it == list[::-1]
+
+a = [input().split()]
+## генерация списка
+a = [[0]*n for i in range(n)]
+
+двумерные списки
+a=[[1, 2, 3, [4, 5, 6], [7, 8, 9]]
+a[1][1] = 5
+a= [[0 for j in range(n)] for i in range(n)] ## квадратный массив из нулей
+
+tips:
+a = [int(i) for i in list]
