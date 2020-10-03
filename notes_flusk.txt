@@ -1,0 +1,12 @@
+datetime.now()strftime('%Y-%')
+datetime.now()isoformat()
+time.asctime()
+
+flask
+@app.route(/url, methods=['POST'])
+app.run()
+
+requests.get('url') - python library
+request.args.get() - flusk
+
+list comprehension - [i for i in range]
