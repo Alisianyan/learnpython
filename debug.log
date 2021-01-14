@@ -1,0 +1,18 @@
+[0103/052925.562:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0103/052925.566:ERROR:exception_snapshot_win.cc(99)] thread ID 3788 not found in process
+[0103/052925.611:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0103/052925.611:ERROR:exception_snapshot_win.cc(99)] thread ID 5928 not found in process
+[0103/052925.846:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0103/052925.846:ERROR:exception_snapshot_win.cc(99)] thread ID 956 not found in process
+[0103/052926.036:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0103/052926.053:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0103/052926.053:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0103/052926.054:ERROR:exception_snapshot_win.cc(99)] thread ID 6348 not found in process
+[0103/052926.201:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0103/052926.201:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0103/052926.201:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0103/052926.201:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0103/052926.201:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0103/052926.201:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
+[0103/052926.201:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0103/052926.201:ERROR:exception_snapshot_win.cc(99)] thread ID 8312 not found in process
