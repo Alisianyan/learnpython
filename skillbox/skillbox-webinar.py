@@ -1,3 +1,4 @@
+import time, datetime
 name=input('message')
 print(f'Hello, {name}')
 
@@ -24,4 +25,12 @@ db = [
 def print_messages(db):
 	for message in db:
 			echo_message(message)
+            
 	
+def send_time(name, text):
+    message = {
+    'text':text',
+    'time':
+    'name':name
+    }
+    db.append(message)
